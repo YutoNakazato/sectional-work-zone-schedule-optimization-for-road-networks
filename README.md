@@ -1,8 +1,8 @@
 # Bi-level solution method for 365-day sectional work zone schedule optimization for road networks
 
-This Python code accompanies the paper "365-day sectional work zone schedule optimization for road networks considering economies of scale and user cost."
+These ipynb codes accompany the paper "365-day sectional work zone schedule optimization for road networks considering economies of scale and user cost."
 
-## Prerequisites
+## Prerequisites about Gurobi
 
 Before running this project, you will need to have the Gurobi Optimizer installed. For more information on obtaining a license, visit the [Gurobi Licensing Page](https://www.gurobi.com/documentation/9.1/quickstart_windows/retrieving_and_setting_up_.html).
 
@@ -22,7 +22,7 @@ The original data can be accessed at the Transportation Networks for Research re
 ## Case Requirements
 
 - **Case 1** can be executed individually without additional data requirements.
-- **Case 2** requires the Sioux Falls folder from the [TNTP Sioux Falls folder](https://github.com/bstabler/TransportationNetworks/tree/master/SiouxFalls).
+- **Case 2** requires the Sioux Falls folder from the [TNTP Sioux Falls folder](https://github.com/bstabler/TransportationNetworks/tree/master/SiouxFalls). Put the Sioux Falls folder same place as the ipynb file.
 
 ## Citation Requirement
 
